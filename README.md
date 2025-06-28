@@ -17,5 +17,5 @@ This is a simple RESTful Task Management API built with Node.js and Express as p
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/techsplot/taskapi.git
    cd task-api
